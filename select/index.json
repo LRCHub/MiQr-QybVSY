@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "極私的極彩色アンサー",
   "base_artist": "トゲナシトゲアリ",
-  "createdAt": "2026-02-09T15:22:37.432502Z",
+  "createdAt": "2026-03-20T16:35:37.907000Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/pl_01_極私的極彩色アンサー_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "極私的極彩色アンサー",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/localdb_01_極私的極彩色アンサー_トゲナシトゲアリ.lrc",
+      "repo_name": "MiQr-QybVSY"
     }
   ]
 }
